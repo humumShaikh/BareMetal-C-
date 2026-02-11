@@ -1,1 +1,1 @@
-***Note : rename the source file name to "main.c" ***
+***Note : rename the source file name to "main.c"***
