@@ -1,5 +1,5 @@
-#include <stdint.h>
-#include <stdbool.h>
+#include <stdint.h>            //include this library for the integer operations
+#include <stdbool.h>            //include this library for the boolean operations
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
@@ -15,4 +15,5 @@ int main(void)
     }
 
     return 0;
+
 }
