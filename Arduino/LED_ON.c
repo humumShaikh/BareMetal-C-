@@ -1,7 +1,7 @@
 #include <stdint.h>            //include this library for the integer operations
 #include <stdbool.h>            //include this library for the boolean operations
-#include <avr/io.h>
-#include <avr/interrupt.h>
+#include <avr/io.h>            //include this library for the io operations
+#include <avr/interrupt.h>        //include this library for the interrupt operations
 
 
 int main(void)
@@ -17,3 +17,4 @@ int main(void)
     return 0;
 
 }
+
